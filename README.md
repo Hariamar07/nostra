@@ -20,4 +20,4 @@ CSS: Used for styling the website and making it visually appealing.
 JavaScript: Used to add interactivity and dynamic behavior to elements on the website.
 
 🚀liveLink
-()
+( https://hariamar07.github.io/nostra/)
